@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-![Image Alt](https://github.com/Samrizer/JOB_CARD/blob/2e946eb4d683a9b8a9603d03336cc4a1af0f3ad4/Screenshot.png)
+![Image Alt](https://github.com/Samrizer/JOB_CARD/blob/b4efc8c7b579943f0db63f512f35c317da893d92/Screenshot-removebg-preview.png)
